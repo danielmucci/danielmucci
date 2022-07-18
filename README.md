@@ -1,17 +1,25 @@
-<h1 align="center">Hello World 👋</h1>
-<h3 align="center">Front-End React Developer, Redux, ES6 +, TypeScript.</h3>
+<h1 align="center">Olá, bem vindo ao meu perfil GitHub 👋</h1>
 
-<h2 align="left">Contact me:</h2>
+<h3 align="center">Desenvolvedor fron-end React, estudando </h3>
+
+<h2 align="left">Contato</h2>
+
 <p align="left"> 
   <a href="https://www.linkedin.com/in/danielfranchii/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfranchii/" /></a>
 </p>
 
 </p>
-<h2 align="left">Front-End:</h2>
-<strong>Programming Languages:</strong><br>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+  <h2 align="left">Front-End:</h2>
+  
+  <strong>Programming Languages:</strong><br>
+  
+  <p align="left"> 
+    <a href="https://www.swift.org/documentation" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"alt="swift" width="40" height="40" />
+  </p>
+</p>
+  
 <strong>Front-end Development:</strong><br>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
